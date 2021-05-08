@@ -5,7 +5,7 @@
 
 # About The Project
 
-<ul>Carrefour</ul>
+Carrefour
 
 https://sebastianraschka.com/blog/2020/numpy-intro.html
 
